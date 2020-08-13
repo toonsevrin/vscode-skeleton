@@ -7,7 +7,8 @@
 		"go.gopath": "~/go"
 	},
 	"extensions": [
-		"golang.go"
+		"golang.go",
+		"ms-python.python"
 	],
 	"postCreateCommand": "dockerd-entrypoint.sh --experimental &",
 
